@@ -1,1 +1,1 @@
-const API_URLs = ""
+export const API_URLs = ""
